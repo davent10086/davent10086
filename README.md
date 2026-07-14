@@ -1,6 +1,6 @@
 <div align="center">
 
-# DAVENT'S DIGITAL WORLD
+<img src="./assets/pixel-title.svg" width="620" alt="DAVENT'S DIGITAL WORLD" />
 
 **Frontend Developer · AI Builder · Anime Enthusiast**
 

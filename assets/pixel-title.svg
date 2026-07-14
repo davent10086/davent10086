@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="96" viewBox="0 0 760 96" role="img" aria-label="DAVENT'S DIGITAL WORLD">
+  <rect width="760" height="96" fill="#ffffff"/>
+  <rect x="10" y="10" width="740" height="76" fill="#f8fbff" stroke="#5b8def" stroke-width="4"/>
+  <rect x="22" y="22" width="8" height="8" fill="#ff9ac8"/>
+  <rect x="730" y="66" width="8" height="8" fill="#ff9ac8"/>
+  <text
+    x="380"
+    y="55"
+    text-anchor="middle"
+    fill="#2459a6"
+    font-size="32"
+    font-family="Consolas, 'Courier New', monospace"
+    font-weight="700"
+    letter-spacing="2">
+    DAVENT'S DIGITAL WORLD
+  </text>
+  <text
+    x="380"
+    y="76"
+    text-anchor="middle"
+    fill="#6b7c93"
+    font-size="12"
+    font-family="Consolas, 'Courier New', monospace"
+    letter-spacing="1">
+    FRONTEND DEVELOPER / AI BUILDER / ANIME ENTHUSIAST
+  </text>
+</svg>
