@@ -39,7 +39,8 @@
 
 ## 联系方式
 
-- GitHub: [@davent10086](https://github.com/davent10086)
+- GitHub: [github.com/davent10086](https://github.com/davent10086)
+- Email: [a1054293130@163.com](mailto:a1054293130@163.com)
 - 求职方向：AI 应用开发 / 全栈开发
 
 ---
